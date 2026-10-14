@@ -1,0 +1,15 @@
+openai
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+chromadb
+tiktoken
+pypdf
+docx2txt
+python-dotenv
+streamlit
+langchain-groq
+langchain-huggingface
