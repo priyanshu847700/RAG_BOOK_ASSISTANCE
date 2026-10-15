@@ -13,3 +13,4 @@ python-dotenv
 streamlit
 langchain-groq
 langchain-huggingface
+pypdf
